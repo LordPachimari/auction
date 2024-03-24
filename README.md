@@ -1,6 +1,6 @@
 # Project auction
 
-One Paragraph of project description goes here
+FULL STACK WITH GO, POSTGRESQL, AND HTMX
 
 ## Getting Started
 
